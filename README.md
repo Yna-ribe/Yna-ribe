@@ -85,7 +85,7 @@ evoluir profissionalmente na área de tecnologia.
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&locale=pt_BR"/>
+<img width="90%" src="[https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&locale=pt_BR](https://github.com/Yna-ribe/modelagem-de-banco-de-dados.git)"/>
 
 </div>
 
