@@ -52,8 +52,7 @@ print(ynae.apresentar())
 Tecnologia da Informação**, da Secretaria da Educação do Estado de
 São Paulo.
 
-💻 Tenho interesse em programação, desenvolvimento web e criação
-de soluções que atendam às necessidades reais das pessoas e empresas.
+💻 Tenho interesse em criação de soluções que atendam às necessidades reais das pessoas e empresas.
 
 🌱 Estou sempre buscando novos conhecimentos e oportunidades para
 evoluir profissionalmente na área de tecnologia.
