@@ -69,16 +69,6 @@ evoluir profissionalmente na área de tecnologia.
 
 ---
 
-## 🔥 Atividade no GitHub
-
-<div align="center">
-
-<img width="90%" src="[https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&locale=pt_BR](https://github.com/Yna-ribe/modelagem-de-banco-de-dados.git)"/>
-
-</div>
-
----
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
@@ -96,12 +86,12 @@ empresas no controle de ponto e no monitoramento de movimentações.
 
 **Tecnologias:** HTML, JavaScript, Python e SQL.
 
-🎯 Foco: organização de informações e desenvolvimento de soluções
+Foco: organização de informações e desenvolvimento de soluções
 práticas para necessidades empresariais.
 
 ---
 
-## 🎯 Objetivos profissionais
+##  Objetivos profissionais
 
 - 📚 Aprofundar meus conhecimentos em programação.
 - 💻 Participar de projetos reais de desenvolvimento.
@@ -111,16 +101,12 @@ práticas para necessidades empresariais.
 
 ---
 
-## 🌐 Vamos nos conectar?
+## Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
