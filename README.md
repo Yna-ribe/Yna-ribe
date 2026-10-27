@@ -73,7 +73,7 @@ evoluir profissionalmente na área de tecnologia.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
+<a href="[MODELAGEM BANCO DE DADOS](https://github.com/Yna-ribe/modelagem-de-banco-de-dados.git)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO&theme=midnight-purple&hide_border=true"/>
 </a>
 
